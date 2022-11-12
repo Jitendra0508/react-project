@@ -6,6 +6,7 @@ const Home = () =>{
         <>
         <h1>this is the home page</h1>
         <p>hello world</p>
+        <span>i like to designing</span>
         </>
     )
 
